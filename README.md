@@ -1,7 +1,7 @@
 
 # Research project
 
-This repository contains the code and notebooks developed as part of the **MPHY0042 Research Project** in the Biomedical Engineering programme.
+This repository contains the code and notebooks developed as part of the **MPHY0042 Research Project** in Biomedical Engineering Year 3.
 
 ## Repository Structure
 
